@@ -18,7 +18,7 @@
 
 ## Technical requirements
 - Godot 4.x (GDScript)
-- Web + Android export
+- Web (HTML5) + Android + iOS export
 - Flappy Bird-style physics (gravity + vertical impulse)
 - Minimalist art
 - Builder with cooldown
