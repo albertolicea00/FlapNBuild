@@ -28,6 +28,7 @@ Living checklist. Items are checked (`[x]`) when done — never deleted.
 
 ## Polish / pending
 
+- [x] Automated smoke playtest (`tests/playtest.tscn`): play → die → game over → restart loop verified headless
 - [ ] Manual playtest: balance pipe gap, scroll speed, cooldown values
 - [ ] LAN playtest on two devices (phone + desktop)
 - [ ] Smooth client sync (lerp instead of snap if jitter shows)
